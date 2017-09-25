@@ -265,7 +265,6 @@
         <string id="30271">This will only work if [COLOR springgreen]%s[/COLOR] is setup as a source</string>
         <string id="30272">Do you wish to continue?</string>
         <string id="30273">ShowPicture</string>
-	
 	<string id="35000">Global Menu</string>
 	<string id="35001">Enable global Super Favourites menu</string>
 	<string id="35002">Style</string>
@@ -287,7 +286,6 @@
 	<string id="35018">Edit name when adding to Super Favourites</string>
 	<string id="35019">Extensions</string>	
 	<string id="35020">Quick launch</string>
-		
 	<string id="35021">Artwork settings</string>	
 	<string id="35022">Thumbnail</string>
 	<string id="35023">Fanart</string>	
@@ -295,7 +293,6 @@
 	<string id="35025">Landscape image</string>
 	<string id="35026">Banner image</string>
 	<string id="35027">Poster image</string>
-	
 	<string id="35028">Set view content type</string>
 	<string id="35029">Files</string>
 	<string id="35030">Songs</string>
@@ -307,15 +304,12 @@
 	<string id="35036">Music videos</string>
 	<string id="35037">Default</string>
 	<string id="35038">Show Super Favourites menu item on standard context menu</string>
-	
 	<string id="35040">Addons on the whitelist will not display the global Super Favourites menu</string>
 	<string id="35041">Add to whitelist</string>
 	<string id="35042">Remove from whitelist</string>
-	
 	<string id="35043">          Label numerically on quick launch menu</string>
         <string id="35044">          Remember previous folder</string>
 
 	<string id="35045">          Show menu item on standard context menu</string>
-
 	<string id="35046">          Show on Super Favourites context menu</string>	
 </strings>
